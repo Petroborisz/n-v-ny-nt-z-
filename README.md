@@ -1,5 +1,5 @@
 # ESP32 Automata Öntözőrendszer
-Ez egy okos öntözőrendszer, amely méri a talajnedvességet és annak megfelelően, szükség szerint öntöz. Szobanövényekre tervezve (egyelőre).
+Ez egy Arduino IDE-n fejlesztett okos öntözőrendszer, amely méri a talajnedvességet és annak megfelelően, szükség szerint öntöz. Szobanövényekre tervezve (egyelőre).
 
 ### Funkciók:
 * Automatikus öntözés: 30% alatti nedvességnél bekapcsol.
